@@ -1,20 +1,20 @@
 [
-  {
-    "Album title": "Gully Boy",
-    "Artist Name": "Divine and Ranveer Singh",
-    "Songs": "Mere Gully Mein \r\n Asli Hip Hop \r\n Sher Aaya Sher \r\n Apna Time Aayega \r\n Doori",
-    "Year": 2011
-  },
-  {
-    "Album title": "Desi Kalakar",
-    "Artist Name": "Yo yo honey singh",
-    "Songs": "Desi Kalakar \r\n Love Dose \r\n Brown Rang \r\n Daftar ki Girl \r\n One Thousand Miles",
-    "Year": 2014
-  },
-  {
-    "Album title": "Rockstar",
-    "Artist Name": "A.R.Rahman",
-    "Songs": "Phir Se Ud Chala \r\n Jo Bhi Main \r\n Kun Faya Kun \r\n Sheher Mein \r\n Nadaan Parinde",
-    "Year": 2011
-  }
+	{
+		"Album title": "Gully Boy",
+		"Artist Name": "Divine and Ranveer Singh",
+		"Songs": "Mere Gully Mein,\n          Asli Hip Hop, \n          Sher Aaya Sher,\n          Apna Time Aayega, \n          Doori",
+		"Year": "2019"
+	},
+	{
+		"Album title": "Desi Kalakar",
+		"Artist Name": "Yo yo honey singh",
+		"Songs": "Desi Kalakaar,\n          Love Dose, \n          Brown Rang, \n          Daftar ki Girl, \n          One Thousand Miles",
+		"Year": "2014"
+	},
+	{
+		"Album title": "Rockstar",
+		"Artist Name": "A.R.Rahman",
+		"Songs": "Phir Se Ud Chala,\n          Jo Bhi Main, \n          Kun Faya Kun, \n          Sheher Mein, \n          Nadaan Parinde",
+		"Year": "2011"
+	}
 ]
